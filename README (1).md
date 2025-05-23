@@ -39,11 +39,11 @@ FN: 9 | TP: 120
 
 Как можно заметить, f-score очень низкий за счет очень низкого presicion. Далее был подобран трешхолд, который дал более качественные результаты:
 
-Использованный трешхолд: 0.0001
-True Positive Rate (Recall): 69.77%
-True Negative Rate: 98.74%
-Precision: 66.18%
-F1-score: 67.92%
+Использованный трешхолд: 0.0001 \
+True Positive Rate (Recall): 69.77% \
+True Negative Rate: 98.74% \
+Precision: 66.18% \
+F1-score: 67.92% \ 
 
 Матрица ошибок:
 TN: 3619 | FP: 46
